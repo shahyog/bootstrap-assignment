@@ -1,0 +1,97 @@
+Name:- shah yog
+MODULE: 6 (Bootstrap Basic & Advance)
+
+
+
+
+
+
+
+•	What are the advantages of Bootstrap?
+
+Fewer Cross browser bugs
+
+A consistent framework that supports major of all browsers and CSS compatibility fixes Lightweight and customizable
+Responsive structures and styles
+
+Several JavaScript plugins using the jQuery Good documentation and community support
+
+
+
+
+
+•	What is a Bootstrap Container, and how does it work?
+
+In Bootstrap, container is used to set the content's margins dealing with the responsive behaviors of your layout. It contains the row elements and the row elements are the container of columns.
+
+
+
+
+
+•	What are the default Bootstrap text settings?
+
+Bootstrap's global default font-size is 14px, with a line-height of 1.428.
+
+
+
+
+
+•	What do you know about the Bootstrap Grid System?
+
+Rows must be placed within a .container class for proper alignment and padding. Use rows to create horizontal groups of columns.
+Content should be placed within the columns, and only columns may be the immediate children of rows.
+
+Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts.
+
+
+
+
+
+•	What is the difference between Bootstrap 4 and Bootstrap 5?
+
+Bootstrap 4 now has much more special features such as cards, flexbox, Sass integration and robust plugins built using jQuery.
+Bootstrap 5 uses Hugo software. Bootstrap 5 helps activate responsive font sizes, Disabled JQuery, Moved forward to Vanilla JavaScript, Updated form elements, Breaking changes in GitHub issues.
+
+
+
+
+
+•	What is a Button Group, and what is the class for a basic Button Group?
+
+button groups has group of buttons together on a single line. Button group is created using class .btn- group.
+
+
+
+•	How can you use Bootstrap to make thumbnails?
+
+Bootstrap helps web developers to create thumbnails that are used to show,linked images in grids with the pre-defined classes which help to reduce codes length.
+
+Thumbnails are created to provide a quick preview of images with small images.
+
+Thumbnail Image: A thumbnail is a small image that represents a larger image. Bootstrap has an easy way to do this with thumbnails. Bootstrap’s .thumbnail class is used to show linked images in grids (grid system), a thumbnail is created using class .thumbnail within the element <a>.	The class .col-sm-* and .col-md-* (where * represent number ), it is used to create grids of the images.
+
+
+
+
+
+•	In Bootstrap 4, what is flexbox?
+
+flex box is used to control the layout and alignment specification of Bootstrap 4 components. This box makes it easier to design flexible responsive layout structures without using float or positioning attributes.
+
+
+
+
+•	How can one create an alert in Bootstrap?
+
+To create alert box add .alert class to <div> tag.
+
+Add contextual classes within the alert box using .alert-success , alert-success , .alert-danger , .alert- warning.
+
+
+
+•	What is a bootstrap card and how would you create one?
+
+Basic Cards The basic card component will have an image, title, description and a button. Sizing of Card Component .
+Card With Subtitle and Links . Card With Text Alignment .
+Adding Header and Footer .
+
